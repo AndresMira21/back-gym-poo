@@ -11,6 +11,10 @@
 	<groupId>com.gym</groupId>
 	<artifactId>Gym</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>models</module>
+	</modules>
 	<name/>
 	<description/>
 	<url/>
